@@ -1,0 +1,9 @@
+[book]
+authors = ["Irene Fedorenko"]
+language = "ru"
+multilingual = true
+src = "./"
+title = "Физика для студентов"
+
+[output.html]
+mathjax-support = true
